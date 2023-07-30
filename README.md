@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Competetive Programming Skils
+- 🔭 I’m currently working on Competetive Programming Skills
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: Chess and Badminton 
 <!-- - 🌱 I’m currently learning 
