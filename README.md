@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Competetive Programming Skills
 - 😄 Pronouns: He/Him
-- ⚡ Hobbies: Chess and Badminton 
+- ⚡ Hobbies: Play Chess and Badminton 
 <!-- - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
